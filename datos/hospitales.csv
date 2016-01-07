@@ -1,7 +1,7 @@
 NUMERO,INSTITUCION,TIPO,SUB-TIPO,NOMBRE_CENTRO,CLAVE_LOCALIDAD,NOMBRE_LOCALIDAD,CLAVE_MUNICIPIO,NOMBRE_MUNICPIO,CLAVE_ESTATAL,NOMBRE_ESTADO,POBLACION_BENEFICIADA,EQUIPOS_COMPUTO,LATITUD,Conversion,LONGITUD,Conversion,TELEFONO,DOMICILIO,HORARIO,CATEGORIAS
 1,SEDESA,Hospital,General,Dr. Enrique Cabrera,1,Álvaro Obregón,10,Álvaro Obregón,9,Distrito Federal,,123,-99.22412222,**,19.36168611,**,55 12 85 71 00 Ext. 5043,"Av. Centenario, esquina prolongación 5 de mayo,
 Col. Exhacienda de Tarango,
-Del. Álvaro Obregón,
+Del. Álvaro Obregón ,
 C.P. 01618, México, D.F.",Permanente,vih|condones|ile
 2,SEDESA,Hospital,General,Xoco,1,Coyoacán,3,Coyoacán,9,Distrito Federal,,64,-99.07920556,-99.1626,19.36010278,19.360164,"55 12 85 71 04
 55 12 85 71 07","Av. México Coyoacán s/n, Esq. Bruno Traven, Col. General Anaya, Del. Benito Juárez
